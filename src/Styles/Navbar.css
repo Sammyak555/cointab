@@ -1,0 +1,13 @@
+.navbar{
+    border: 1px solid grey;
+    height: 60px;
+    width: 100%;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    
+}
+.navbar>div{
+    text-decoration: none; 
+}
